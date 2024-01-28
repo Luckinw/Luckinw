@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luckinw&label=Profile%20views&color=0e75b6&style=flat" alt="luckinw" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 Latest Projects  **https://www.kaggle.com/lukavardanidze**
 
 - 📫 How to reach me **luckkinw@gmail.com**
 
